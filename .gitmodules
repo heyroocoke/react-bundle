@@ -1,0 +1,3 @@
+[submodule "react-bundle"]
+	path = react-bundle
+	url = https://github.com/heyroocoke/react-bundle
